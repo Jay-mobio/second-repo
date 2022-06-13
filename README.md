@@ -9,4 +9,6 @@ commit two
 
 # commit 
 commit three 
-o
+
+# commit
+commit four
