@@ -1,14 +1,2 @@
-# second-repo
-creating repository
-
-# commit
-commit one
-
-# commit
-commit two
-
-# commit
-commit three
-
-# commit
-commit four
+# demo
+task is to assign reviewer
