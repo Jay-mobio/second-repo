@@ -8,6 +8,7 @@ commit one
 commit two
 
 # commit
+q
 commit three
 
 # commit 
