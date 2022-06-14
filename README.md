@@ -1,11 +1,5 @@
 # demo
-example for rebase 
+example for add and commit comand  
 
 # demo 
-commit number two
-
-# demo
-commit number three
-
-# demo
-commit number four
+example for push command
